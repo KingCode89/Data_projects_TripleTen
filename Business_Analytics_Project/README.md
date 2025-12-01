@@ -10,8 +10,8 @@ At the conclusion of the project, it could be summarized that there was no immed
 System Requirements
 - Microsoft Excel 2016 or newer (or Excel 365)
 - Windows 10/11 or macOS 10.14+
-- [Any specific Excel add-ins you used, like Power Query, Solver, etc.]
-- [If you used any external data sources or connections]
+- Any specific Excel add-ins you used, like Power Query, Solver, etc.
+- If you used any external data sources or connections
 
 
 Installation Instructions:
